@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=pile\ compHand\ top\ userHand
+comment0.target=Uno\ compPlay(Deck,\ Deck,\ Uno,\ Deck)
+comment0.text=\n\ compPlay\ chooses\ a\ suitable\ card\ from\ its\ compHand\ and\ plays\ it\ in\ the\ game.\ It\ abides\ by\ the\ rules\ and\ always\ plays\ a\ valid\ card\ with\ reference\ to\ the\ top\ card.\ \n\ \n\ @param\ pile\ the\ centre\ pile\ of\ the\ game\ which\ may\ be\ used\ only\ if\ the\ computer\ needs\ to\ draw\ a\ card.\n\ @param\ compHand\ the\ computer's\ hand\ from\ which\ a\ card\ is\ to\ be\ played.\n\ @param\ top\ the\ top\ card\ of\ the\ played\ pile\ which\ is\ used\ as\ a\ reference\ for\ the\ computer\ to\ play\ its\ card.\n\ @param\ userHand\ the\ user's\ hand\ which\ is\ used\ as\ a\ reference\ for\ the\ computer\ to\ play\ a\ draw\ 2\ based\ on\ the\ circumstance\ -\ if\ the\ user's\ hand\ has\ lesser\ cards\ than\ the\ computer,\n\ then\ the\ computer\ plays\ a\ valid\ draw\ 2,\ if\ it\ has\ one.\n\ \n\ @return\ the\ Uno\ card\ which\ is\ to\ be\ played\ by\ the\ computer,\ if\ it\ can\ and\ null,\ if\ it\ can't.\n
+comment1.params=a\ lowIndex\ highIndex
+comment1.target=int\ maxInRange(int[],\ int,\ int)
+comment1.text=\n\ maxInRange\ takes\ an\ array\ of\ integers\ and\ a\ range\ of\ indices\ (lowIndex\ and\ highIndex),\ and\ finds\ the\ largest\ value\ in\ the\ array,\ considering\ only\ the\ elements\ between\ lowIndex\ and\ highIndex,\ \n\ including\ both\ ends.\n\ \n\ @param\ a\ the\ array\ in\ which\ the\ largest\ value\ is\ to\ be\ returned.\n\ @param\ lowIndex\ the\ beginning\ index\ of\ the\ range\ of\ indices.\n\ @param\ highIndex\ the\ ending\ index\ of\ the\ range\ of\ indices.\n\ @return\ the\ largest\ integer\ value\ present\ in\ the\ array.\ \n
+comment2.params=array
+comment2.target=int\ max(int[])
+comment2.text=\n\ max\ is\ a\ method\ that\ takes\ an\ array\ as\ a\ parameter\ and\ that\ uses\ maxInRange\ to\ find\ and\ return\ the\ largest\ value.\n\n@param\ array\ the\ array\ in\ which\ the\ largest\ value\ is\ to\ be\ returned\ .\ \n@return\ the\ largest\ value\ present\ in\ the\ array,\ in\ the\ form\ of\ an\ integer.\n
+comment3.params=array\ target
+comment3.target=int\ search(int[],\ int)
+comment3.text=\n\ search\ is\ a\ method\ which\ takes\ an\ array\ of\ integers\ and\ a\ target\ integer.\ It\ returns\ the\ index\ of\ the\ first\ location\ where\ the\ target\ integer\ appears\ in\ the\ array,\ or\ -1\ if\ it\ does\ not\ appear.\n\ \n\ @param\ array\ the\ array\ in\ which\ the\ target\ integer\ is\ to\ be\ searched\ for.\n\ @param\ target\ the\ integer\ to\ be\ searched\ for\ in\ the\ array.\n\ @return\ the\ index\ of\ the\ target\ integer\ in\ the\ array,\ in\ the\ form\ of\ an\ integer.\ \ \ \n
+comment4.params=a
+comment4.target=int\ zeroes(int[])
+comment4.text=\n\ zeroes\ is\ a\ method\ which\ searches\ for\ the\ number\ of\ zeroes\ in\ an\ array\ passed\ to\ it\ as\ a\ parameter.\ \n\ \n\ @param\ a\ the\ array\ in\ which\ the\ number\ of\ zeroes\ are\ to\ be\ searched\ for.\n\ @return\ the\ number\ of\ zeroes\ present\ in\ the\ array\ in\ the\ form\ of\ an\ integer.\ \n
+numComments=5

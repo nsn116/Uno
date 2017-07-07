@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=hand\ top\ s
+comment0.target=Uno\ userPlay(Deck,\ Uno,\ java.lang.String)
+comment0.text=\n\ The\ method\ userPlay\ checks\ if\ the\ card\ chosen\ by\ the\ user\ is\ present\ in\ his/her\ deck\ and\ if\ it\ is,\ it\ checks\ if\ it\ is\ valid\ or\ not\ -\ if\ it\ can\ be\ played,\ the\ card\ is\ returned\ otherwise\ null\ is\ returned.\n\ If\ the\ card\ is\ not\ present\ in\ the\ deck\ it\ returns\ null.\ \n\ \n\ @param\ hand\ the\ player's\ hand\ from\ which\ the\ Uno\ card\ is\ to\ be\ played.\n\ @param\ top\ the\ top\ card\ which\ is\ used\ to\ check\ if\ the\ card\ chosen\ by\ the\ user\ is\ a\ valid\ card\ or\ not\ and\ if\ it\ can\ be\ played\ or\ not.\n\ @param\ s\ the\ card\ chosen\ by\ the\ user\ in\ the\ form\ of\ a\ String.\n\ @return\ the\ Uno\ card\ chosen\ by\ the\ user\ if\ it\ is\ valid\ as\ per\ the\ rules\ of\ the\ game,\ otherwise\ null\ is\ returned.\ \n
+numComments=1

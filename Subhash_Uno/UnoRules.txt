@@ -1,0 +1,70 @@
+									           Rules Of the Game of Uno
+
+
+The game has 108 cards as follows:
+
+19 Red Cards - 0 to 9
+
+19 Blue Cards - 0 to 9
+
+19 Yellow Cards - 0 to 9
+
+19 Green Cards - 0 to 9
+
+8 Draw Two cards - 2 each in Blue, Green, Red and Yellow
+
+8 Reverse Cards - 2 each in Blue, Green, Red and Yellow
+
+8 Skip Cards - 2 each in Blue, Green, Red and Yellow
+
+4 Wild Cards
+
+4 Wild Draw 4 cards
+
+---> Each player is dealt 7 cards with the remaining ones placed face down to form a DRAW pile. The top card of the DRAW pile is turned over to begin a DISCARD pile. In this case the draw pile isn't even printed.
+
+---> The first player has to match the card in the DISCARD pile either by number, color or word. For example, if the card is a red 7, player must throw down a red card or any color 7. Or the player can throw down a Wild Card or a Wild Draw 4 Card. If the player doesn't have anything to match, he must pick a card from the DRAW pile. If he can play what is drawn, great. Otherwise play moves to the next person.
+
+---> When you have two cards left, you must type "uno" next to the second last card. Failure to do this results in you having to pick seven cards from the DRAW pile. That is, of course if you get caught by the other players.
+
+NOW FOR THE DETAILS 
+
+STARTING A DISCARD PILE
+
+If a normal card is picked then the game begins and you can either play a card which is of the same colour or same rank or a wild or a wild draw 4 (if you don't have a card of that colour).
+
+If any power card (skip, reverse, draw 2) is picked except a Wild Draw 4 only the colour matters. You play a card of the same colour as the power card.
+
+Wild Draw Four - It's put back in the deck and another one is chosen.
+
+
+WHAT WORD CARDS MEAN
+
+Draw Two Cards - When this card is played, the next person to play must draw 2 cards and forfeit his turn.
+
+Reverse Card - It is the turn of the player who played the reverse.
+
+Skip Card - It is the turn of the player who played the skip.
+
+Wild Card - This card can be played on any card. The person playing the card calls any color to continue play, including the one presently being played if desired. A Wild card can be played even if the player has another playable card in his hand.
+
+Wild Draw Four Card - This is the best, meanest, most sneaky card to have. Not only does the player get to call the next color played, but the next player has to pick 4 cards and forfeit his turn. There is a hitch, however (of course): you can only play this card when you don't have a card in your hand that matches the color of the card previously played.
+
+A player who forgets to say UNO before his card touches the discard pile, but "catches" himself before any other player catches him, is safe and is not subject to the penalty. You may not catch a player for failure to say UNO until his second to last card touches the DISCARD pile. Also, you may not catch a player for failure to say UNO after the next player begins his next turn. Beginning a turn is defined as either drawing a card from the DRAW pile or drawing a card from your hand to play.
+
+If no one is out of cards by the time the DRAW pile is depleted, the pile is reshuffle and the game continues.
+
+
+RENEGING
+
+A player may choose not to play a playable card from his hand. If so, the player must draw a card from the DRAW pile. If playable, that card can be played, but the player may not play a card from his hand after the draw.
+
+TWO-HANDED PLAY, PARTNERS AND MULTI-TABLE TOURNAMENTS:
+
+Rules for Two Players - Play UNO with two players with the following special rules:
+1. Playing a Reverse card acts like a Skip. The player who plays the Reverse may immediately play another card.
+2. The person playing a Skip card may immediately play another card.
+3. When a Draw Two card is played and your opponent has drawn two cards, the play is back to you. The same principle applies to the Wild Draw Four card. 
+Regular UNO rules apply in all other other instances.
+
+                                                                                                                         ----------x----------x----------x----------
